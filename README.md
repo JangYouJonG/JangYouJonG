@@ -16,13 +16,13 @@
 ### Hi there 👋
 #### Hi there 👋
 ##### Hi there 👋
-<!- 주석 ->
+<!-- 주석- ->
 
 ---
 
-**두껍게** <!- bold ->
-*기울임* <!- italic ->
-~~취조선 긋기~~ <br><!- strikethrough ->
+**두껍게** <!-- bold -->
+*기울임* <!-- italic -->
+~~취조선 긋기~~ <br><!-- strikethrough -->
 
 * 1번
 * *2번
@@ -35,6 +35,6 @@
 <html> ~~~ </html>html
 '''
 
-😄 <!- :smile ->
+😄 <!-- :smile -->
 
 
