@@ -32,7 +32,7 @@
 [네이버](https://naver.com)
 
 '''
-<html> ~~~ </html>html
+<html> </html>           
 '''
 
 😄 <!-- :smile -->
